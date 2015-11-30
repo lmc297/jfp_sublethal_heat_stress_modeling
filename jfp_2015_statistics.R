@@ -1,6 +1,5 @@
 # filename:  jfp_2015_statistics.R
 # description:  descriptions for statsitical tests performed for our 2015 JFP manuscript in R
-# author:  Laura M. Carroll; lmc297@cornell.edu
 
 # Abbreviations for specific data sets used in this study:
 # pc45 = plate counts 45:  differential plating over time at 45C in logCFU/g
